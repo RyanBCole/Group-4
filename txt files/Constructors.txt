@@ -1,0 +1,10 @@
+McLaren, 1
+Ferrari, 6
+Alfa, 51
+Aston Martin, 117
+Mercedes, 131
+Alpha Tauri, 213
+Alpine, 214
+Red Bull, 9
+Haas, 210
+Williams, 3
