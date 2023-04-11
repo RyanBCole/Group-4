@@ -14,7 +14,7 @@ Lewis Hamilton, Valterri Bottas, Max Verstappen, Sergio Perez, Charles Leclerc, 
 
 
 Included in this repository is the Kaggle document we utilized to guide us along our data analysis. The CSV’s we pulled data from are located in the Formula_1_csv folder, the code we created to make our figures, the final analysis PowerPoint, and the written analysis for the entire project.  Our figures and analyses are below.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 I.	Question 1
 a.	How much does the average pit stop time of a driver per race affect their finishing position?
